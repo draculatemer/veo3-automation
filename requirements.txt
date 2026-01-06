@@ -1,1 +1,6 @@
 
+google-cloud-aiplatform
+python-docx
+python-dotenv
+requests
+pillow
